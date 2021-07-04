@@ -7,17 +7,17 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.Select;
 
 /*
-*
-*
-*
-*
-*
-*
+ *
+ *sample assignment
+ *
+ *
+ *
+ *
  */
 
 import java.util.List;
 
-public class  assignment1 {
+public class assignment1 {
 
     public static void main(String[] args) throws InterruptedException {
         //Selenum code to open google.com in chrome browser
