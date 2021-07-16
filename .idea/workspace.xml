@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <list default="true" id="44edef15-3960-4e94-a82d-8b2c0356ffb6" name="Default Changelist" comment="Selenium practice - Select calender dates without hard code the date by&#10;                    Xpath or CSS ." />
 =======
+=======
+>>>>>>> Stashed changes
     <list default="true" id="44edef15-3960-4e94-a82d-8b2c0356ffb6" name="Default Changelist" comment="Selenium practice - Select calender dates without hard code the date by&#10;                    Xpath or CSS .">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -37,6 +40,9 @@
     </list>
     <list id="d820eee5-eba3-4b16-a63a-04688869bd22" name="Revert &quot;Selenium set up sample comment&quot;" comment="Revert &quot;Selenium set up sample comment&quot;&#10;&#10;This reverts commit 232ca514" />
     <list id="cc47ca75-4877-4aa0-8055-955d901260a8" name="Selenium set up sample comment" comment="" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +56,11 @@
   </component>
   <component name="FileEditorManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <leaf />
 =======
+=======
+>>>>>>> Stashed changes
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CalenderDateSelect.java">
@@ -81,6 +90,9 @@
     <dirStrings>
       <dir>C:\Users\Jyoti\IdeaProjects\Introduction</dir>
     </dirStrings>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   </component>
   <component name="Git.Settings">
@@ -115,7 +127,11 @@
     </option>
   </component>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds">
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+>>>>>>> Stashed changes
 =======
   <component name="ProjectFrameBounds" extendedState="6">
 >>>>>>> Stashed changes
@@ -131,10 +147,13 @@
     </navigator>
     <panes>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
 =======
+=======
+>>>>>>> Stashed changes
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -153,6 +172,9 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </panes>
   </component>
@@ -163,7 +185,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="TODO_SCOPE" value="All Places" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626413234916" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626405382297" />
+>>>>>>> Stashed changes
 =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626405382297" />
 >>>>>>> Stashed changes
@@ -173,12 +199,18 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jyoti\IdeaProjects\Introduction\src" />
     </key>
   </component>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,7 +277,11 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="44edef15-3960-4e94-a82d-8b2c0356ffb6" name="Default Changelist" comment="" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <changelist id="" name="Selenium set up sample comment" comment="" />
+=======
+      <changelist id="cc47ca75-4877-4aa0-8055-955d901260a8" name="Selenium set up sample comment" comment="" />
+>>>>>>> Stashed changes
 =======
       <changelist id="cc47ca75-4877-4aa0-8055-955d901260a8" name="Selenium set up sample comment" comment="" />
 >>>>>>> Stashed changes
@@ -374,6 +410,10 @@
       <updated>1626403885370</updated>
     </task>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    <option name="localTasksCounter" value="18" />
+>>>>>>> Stashed changes
 =======
     <option name="localTasksCounter" value="18" />
 >>>>>>> Stashed changes
@@ -390,15 +430,21 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <frame x="960" y="32" width="556" height="784" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.36491936" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.12147651" />
 =======
+=======
+>>>>>>> Stashed changes
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.12147651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -413,7 +459,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35582823" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
+>>>>>>> Stashed changes
 =======
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
 >>>>>>> Stashed changes
@@ -499,7 +549,10 @@
     </option>
   </component>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selenium set up" />
     <MESSAGE value="Selenium set up sample comment" />
@@ -517,6 +570,9 @@
     <MESSAGE value="Selenium practice - Select calender dates without hard code the date by&#10;                    Xpath or CSS ." />
     <option name="LAST_COMMIT_MESSAGE" value="Selenium practice - Select calender dates without hard code the date by&#10;                    Xpath or CSS ." />
   </component>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Properties.java">
@@ -595,7 +651,10 @@
       </provider>
     </entry>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/assignment1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -606,6 +665,9 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/assignment2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -717,6 +779,7 @@
     <entry file="file://$PROJECT_DIR$/src/CalenderDateSelect.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <state relative-caret-position="34">
           <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
@@ -730,6 +793,10 @@
         <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
 >>>>>>> Stashed changes
+=======
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -738,7 +805,10 @@
     </entry>
   </component>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
@@ -826,5 +896,8 @@
       </state>
     </states>
   </component>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </project>
