@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     <list default="true" id="44edef15-3960-4e94-a82d-8b2c0356ffb6" name="Default Changelist" comment="Selenium practice - Select calender dates without hard code the date by&#10;                    Xpath or CSS ." />
-=======
-=======
->>>>>>> Stashed changes
-    <list default="true" id="44edef15-3960-4e94-a82d-8b2c0356ffb6" name="Default Changelist" comment="Selenium practice - Select calender dates without hard code the date by&#10;                    Xpath or CSS .">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/Action_Class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/Assignment4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/Assignment5_nestedFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/Assignment6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/LinkCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/WindowHandles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/assignment1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/assignment2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/parentChildXpath_google.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/practiceTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/rediffBrowser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Introduction/spiceJet_practice2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Action_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalenderDateSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WindowHandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parentChildXpath_google.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rediffBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spiceJet_practice2.java" afterDir="false" />
-    </list>
-    <list id="d820eee5-eba3-4b16-a63a-04688869bd22" name="Revert &quot;Selenium set up sample comment&quot;" comment="Revert &quot;Selenium set up sample comment&quot;&#10;&#10;This reverts commit 232ca514" />
-    <list id="cc47ca75-4877-4aa0-8055-955d901260a8" name="Selenium set up sample comment" comment="" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,45 +13,7 @@
     <favorites_list name="Introduction" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     <leaf />
-=======
-=======
->>>>>>> Stashed changes
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CalenderDateSelect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\Jyoti\IdeaProjects\Introduction</dir>
-    </dirStrings>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -126,17 +46,9 @@
       </list>
     </option>
   </component>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  <component name="ProjectFrameBounds">
-=======
   <component name="ProjectFrameBounds" extendedState="6">
->>>>>>> Stashed changes
-=======
-  <component name="ProjectFrameBounds" extendedState="6">
->>>>>>> Stashed changes
-    <option name="x" value="1200" />
-    <option name="y" value="40" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="695" />
     <option name="height" value="980" />
   </component>
@@ -146,36 +58,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
-=======
-=======
->>>>>>> Stashed changes
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Introduction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,34 +69,12 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="TODO_SCOPE" value="All Places" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626413234916" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626405382297" />
->>>>>>> Stashed changes
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626405382297" />
->>>>>>> Stashed changes
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626415504433" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jyoti\IdeaProjects\Introduction\src" />
-    </key>
-  </component>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -224,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectCalenderDate">
+  <component name="RunManager" selected="Application.Assignment6">
     <configuration name="Action_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Action_Class" />
       <module name="Introduction" />
@@ -262,8 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectCalenderDate" />
         <item itemvalue="Application.Assignment6" />
+        <item itemvalue="Application.SelectCalenderDate" />
         <item itemvalue="Application.LimitScope" />
         <item itemvalue="Application.Action_Class" />
         <item itemvalue="Application.LinkCount" />
@@ -276,15 +139,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="44edef15-3960-4e94-a82d-8b2c0356ffb6" name="Default Changelist" comment="" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       <changelist id="" name="Selenium set up sample comment" comment="" />
-=======
-      <changelist id="cc47ca75-4877-4aa0-8055-955d901260a8" name="Selenium set up sample comment" comment="" />
->>>>>>> Stashed changes
-=======
-      <changelist id="cc47ca75-4877-4aa0-8055-955d901260a8" name="Selenium set up sample comment" comment="" />
->>>>>>> Stashed changes
       <created>1619829898743</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -409,14 +264,6 @@
       <option name="project" value="LOCAL" />
       <updated>1626403885370</updated>
     </task>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-    <option name="localTasksCounter" value="18" />
->>>>>>> Stashed changes
-=======
-    <option name="localTasksCounter" value="18" />
->>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TodoView">
@@ -429,23 +276,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     <frame x="960" y="32" width="556" height="784" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.36491936" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.12147651" />
-=======
-=======
->>>>>>> Stashed changes
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.12147651" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -458,15 +292,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35582823" />
-=======
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
->>>>>>> Stashed changes
-=======
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
->>>>>>> Stashed changes
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3895184" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49932885" weight="0.3286119" />
@@ -548,32 +374,6 @@
       </map>
     </option>
   </component>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Selenium set up" />
-    <MESSAGE value="Selenium set up sample comment" />
-    <MESSAGE value="Updating author comment" />
-    <MESSAGE value="Updating status...." />
-    <MESSAGE value="Cleaning project" />
-    <MESSAGE value="Selenium practice assignment 1" />
-    <MESSAGE value="Selenium practice assignment 2" />
-    <MESSAGE value="Selenium practice assignment 3" />
-    <MESSAGE value="Selenium practice assignment 5" />
-    <MESSAGE value="Selenium practice - Get available Links Count of web page ." />
-    <MESSAGE value="Selenium practice - Assignment 6" />
-    <MESSAGE value="Selenium practice - how to limit webdriver scope" />
-    <MESSAGE value="Selenium practice - Select calender dates without hard code the date by xpath or CSS ." />
-    <MESSAGE value="Selenium practice - Select calender dates without hard code the date by&#10;                    Xpath or CSS ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium practice - Select calender dates without hard code the date by&#10;                    Xpath or CSS ." />
-  </component>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Properties.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -650,25 +450,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-    <entry file="file://$PROJECT_DIR$/src/assignment1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/assignment2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -778,8 +559,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CalenderDateSelect.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         <state relative-caret-position="34">
           <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
@@ -789,14 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="23" column="90" lean-forward="true" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
-=======
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
->>>>>>> Stashed changes
-=======
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
->>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -804,100 +575,4 @@
       </provider>
     </entry>
   </component>
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Introduction</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>testng-6.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 </project>
